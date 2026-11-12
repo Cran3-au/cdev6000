@@ -1,0 +1,50 @@
+{
+  "gap": 5,
+  "icons": {
+    "Apple Pay": {
+      "scale": 0.9,
+      "shiftX": -6,
+      "shiftY": 0
+    },
+    "Alipay": {
+      "scale": 0.64,
+      "shiftX": -11,
+      "shiftY": 2
+    },
+    "WeChat Pay": {
+      "scale": 0.67,
+      "shiftX": -14,
+      "shiftY": -5
+    },
+    "UnionPay": {
+      "scale": 0.76,
+      "shiftX": -14,
+      "shiftY": -5
+    },
+    "UPI ID": {
+      "scale": 0.66,
+      "shiftX": -12,
+      "shiftY": -4
+    },
+    "UPI QR": {
+      "scale": 0.66,
+      "shiftX": -12,
+      "shiftY": -4
+    },
+    "American Express": {
+      "scale": 0.57,
+      "shiftX": -17,
+      "shiftY": -30
+    },
+    "Visa": {
+      "scale": 1.14,
+      "shiftX": -15,
+      "shiftY": -3
+    },
+    "Mastercard": {
+      "scale": 0.75,
+      "shiftX": -16,
+      "shiftY": -3
+    }
+  }
+}
